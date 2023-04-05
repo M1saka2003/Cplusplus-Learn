@@ -32,5 +32,5 @@ int main()
     };
 
     auto foo4 = [=] {};//捕获lambda表达式定义域的全部变量的值
-    auto f005 = [&] {};//捕获lambda表达式定义域的全部变量的引用
+    auto foo5 = [&] {};//捕获lambda表达式定义域的全部变量的引用
 }
