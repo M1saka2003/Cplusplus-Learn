@@ -13,7 +13,7 @@ int main()
 
     int x = 1, y = 1;
 
-    auto foo1 = [x, y]() {};
+    auto foo1 = [x, y]() {};//值捕获
     //auto foo1 = [x, y] { x++, y++ }; 编译器报错,因为是值捕获不允许修改
 
     auto foo2 = [x, y]()mutable { ++x, ++y; };
