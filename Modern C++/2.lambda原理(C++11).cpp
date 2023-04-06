@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main()
-{
+{ 
     int x = 1, y = 1;
 
     //lambda实现借助仿函数也就是operator(),如下

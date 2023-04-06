@@ -3,7 +3,7 @@
 int static_test1;
 
 int main()
-{
+{ 
     // lambda 表达式捕获列表的变量必须是一个自动存储类型,也就是非静态的局部变量
     //auto foo = [static_test1] {}; 编译器报错,因为static_test1是一个全局变量
 

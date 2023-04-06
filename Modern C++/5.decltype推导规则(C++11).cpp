@@ -3,7 +3,7 @@
 int main()
 {
     int a{};
-
+ 
     decltype(a) b = 1;//当decltype(T)内是一个未加括号的标识符表达式时,推导出T类型
     
     decltype(++a) c = a;//decltype(T)内是一个左值表达式时推导出T&

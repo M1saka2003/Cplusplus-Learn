@@ -2,7 +2,7 @@
 
 class A
 {
-public:
+public: 
     A() = default;
     void test()
     {

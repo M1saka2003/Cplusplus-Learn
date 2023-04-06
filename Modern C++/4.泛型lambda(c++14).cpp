@@ -7,7 +7,7 @@
 
 class lambda_
 {
-public:
+public: 
     lambda_() = default;
     template<typename T1, typename T2>
     auto operator()(T1 x, T2 y) const
