@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.25)
-project(CPP)
+project(Cplusplus-Learn)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CPP main.cpp)
+add_executable(Cplusplus-Learn main.cpp)
