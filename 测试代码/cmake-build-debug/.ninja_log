@@ -1,8 +1,0 @@
-# ninja log v5
-0	407	7062695920291588	CMakeFiles/Cplusplus-Learn.dir/main.cpp.obj	e8a3721bab1
-0	87	7062733784871120	build.ninja	98cb68be630f7290
-408	510	7062695921096634	Cplusplus-Learn.exe	cc4347155b5ad50
-1	1352	7062734026293752	CMakeFiles/Cplusplus-Learn.dir/main.cpp.obj	1d569f7bfba07bba
-1352	1482	7062734027324508	Cplusplus-Learn.exe	cc4347155b5ad50
-0	1016	7062737423503697	CMakeFiles/Cplusplus-Learn.dir/main.cpp.obj	1d569f7bfba07bba
-1016	1200	7062737425051852	Cplusplus-Learn.exe	cc4347155b5ad50
