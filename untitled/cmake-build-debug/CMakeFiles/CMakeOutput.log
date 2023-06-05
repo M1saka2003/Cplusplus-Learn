@@ -48,18 +48,18 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 The CXX compiler identification is MSVC, found in "D:/Code/CLion/Cplusplus-Learn/untitled/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: D:/Code/CLion/Cplusplus-Learn/untitled/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ajh91n
+Change Dir: D:/Code/CLion/Cplusplus-Learn/untitled/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vlbfu3
 
-Run Build Command(s):D:/JetBrains/Toolbox/apps/apps/CLion/ch-0/231.9011.31/bin/ninja/win/x64/ninja.exe cmTC_34492 && [1/2] Building C object CMakeFiles\cmTC_34492.dir\CMakeCCompilerABI.c.obj
-[2/2] Linking C executable cmTC_34492.exe
+Run Build Command(s):D:/JetBrains/Toolbox/apps/apps/CLion/ch-0/231.9011.31/bin/ninja/win/x64/ninja.exe cmTC_ac0e7 && [1/2] Building C object CMakeFiles\cmTC_ac0e7.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_ac0e7.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: D:/Code/CLion/Cplusplus-Learn/untitled/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-6nk0os
+Change Dir: D:/Code/CLion/Cplusplus-Learn/untitled/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-lvrxuk
 
-Run Build Command(s):D:/JetBrains/Toolbox/apps/apps/CLion/ch-0/231.9011.31/bin/ninja/win/x64/ninja.exe cmTC_af30a && [1/2] Building CXX object CMakeFiles\cmTC_af30a.dir\CMakeCXXCompilerABI.cpp.obj
-[2/2] Linking CXX executable cmTC_af30a.exe
+Run Build Command(s):D:/JetBrains/Toolbox/apps/apps/CLion/ch-0/231.9011.31/bin/ninja/win/x64/ninja.exe cmTC_32deb && [1/2] Building CXX object CMakeFiles\cmTC_32deb.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_32deb.exe
 
 
 
